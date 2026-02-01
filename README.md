@@ -163,12 +163,6 @@ http://localhost:3000
 
 ---
 
-## Périmètre du projet
-
-Ce projet correspond uniquement au **Bloc 3 – Développement informatique**.  
-Les blocs 1 et 2 (documentation et gestion de projet) ne font pas partie du périmètre de cette livraison.
-
----
 
 ## Auteur
 
